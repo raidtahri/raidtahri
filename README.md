@@ -10,7 +10,7 @@
 
 ### 💡 About Me
 
-- 👨‍💻 I'm currently learning DevOps Engineering step by step.
+- 👨‍💻 I'm currently learning AWS Cloud & DevOps Engineering step by step.
 - 🧠 Already covered: Networking, Linux Commands, Bash Scripting, Git, GitHub, GitLab, Docker.
 - ☁️ Now learning: Amazon Web Services (AWS) — EC2, S3, IAM, VPC...
 - 🌱 My goal: become a certified AWS DevOps Engineer.
