@@ -3,12 +3,12 @@
 <h1 align="center">Hi there, I'm Raid Tahri 👋</h1>
 
 <p align="center">
-🚀 Aspiring AWS Cloud & DevOps Engineer | 💻 Networking, Linux, Bash | 🐳 Docker | Git & GitLab | ☁️ Learning AWS
+Aspiring AWS Cloud & DevOps Engineer | Networking, Linux, Bash | Docker | Git & GitLab | Learning AWS
 </p>
 
 ---
 
-### 💡 About Me
+### About Me
 
 - I'm currently learning AWS Cloud & DevOps Engineering step by step.
 - Already covered: Networking, Linux Commands, Bash Scripting, Git, GitHub, GitLab, Docker.
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ DevOps Toolkit
+### DevOps Toolkit
 
 Here are the technologies I use and explore:
 
@@ -46,7 +46,7 @@ Here are the technologies I use and explore:
 
 ---
 
-### 📚 Learning Journey
+### Learning Journey
 
 Current Focus:  
 > Dive deeper into AWS services and deploy real-world projects using EC2, S3, and IAM. Building a foundation in Infrastructure as Code with Terraform.
@@ -61,7 +61,7 @@ Next Goals:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=raidtahri&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -69,7 +69,7 @@ Next Goals:
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raidtahri)
 - 📬 Email: raid.tahri.contact@gmail.com
